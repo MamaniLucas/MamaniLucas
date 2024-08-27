@@ -1,4 +1,10 @@
-## Nice to meet you, 👋 I'm Myriam 
+
+<h1 align="center">Nice to meet you, 👋 I'm Myriam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center"><img src="https://t3.ftcdn.net/jpg/09/07/13/32/360_F_907133227_cZ4O5LfRQCjW2ToHZWIpkJBLDxlfaJYx.webp"></p>
+
+
+
 # 💫 About Me:
 I'm Software Design Full stack<br>Me interesa Django, Java, php <br>Angular, Javascript HTML5 CSS3 <br> 
 
