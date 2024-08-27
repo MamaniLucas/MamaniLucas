@@ -22,10 +22,7 @@ I'm Software Design Full stack<br>Me interesa Django, Java, php <br>Angular, Jav
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MamaniLucas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MamaniLucas&icon=8&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **MamaniLucas/MamaniLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
