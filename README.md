@@ -1,4 +1,4 @@
-## Hi there 👋I'm Myriam Roxana
+## Nice to meet you, 👋 I'm Myriam 
 # 💫 About Me:
 I'm Software Design Full stack<br>Me interesa Django, Java, php <br>Angular, Javascript HTML5 CSS3 <br> 
 
