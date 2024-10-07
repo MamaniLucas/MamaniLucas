@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-I'm Software Design Full stack<br>Me interesa Django, Java, php <br>Angular, Javascript HTML5 CSS3 <br> 
+I'm Software Design Full stack<br> Desarrolladora web proactiva y autodidacta con una fuerte pasión por la tecnología. Siempre estoy buscando nuevas formas de mejorar mis habilidades y mantenerme actualizada con las últimas tendencias del desarrollo web. Mi experiencia en sistemas LMS me ha permitido desarrollar aplicaciones web y móviles altamente personalizadas y escalables. Busco un puesto donde pueda colaborar con equipos multidisciplinarios y contribuir a proyectos innovadores. <br>   
 
 
 ## 🌐 Socials:
